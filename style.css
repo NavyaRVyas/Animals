@@ -1,0 +1,29 @@
+body { font-family: 'Indie Flower', cursive; 
+    background: linear-gradient(rgb(255, 0, 157) ,rgb(255, 234, 0), rgb(0, 225, 255));
+ } 
+ .header_div p {
+      font-size: 18px;
+       letter-spacing: 2px;
+        font-weight: bold; 
+    }
+    .main_div button 
+    {
+         width: 130px;
+          margin-top: 30px;
+         font-weight: bolder; 
+         letter-spacing: 3px;
+          background: aquamarine;
+           color: black;
+         }
+         .copyright_footer { 
+             position: fixed;
+              color: rgb(30, 255, 0);
+               bottom: 0; 
+               width: 100%;
+                font-size: 23px; 
+                background-color: whitesmoke;
+                 line-height: 3;
+                  text-align: center;
+                   text-shadow: 5px 5px 5px grey;
+                    font-weight: bolder;
+                 }
